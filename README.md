@@ -1,8 +1,8 @@
 # <summary><strong>Hi there :wave: , I'm Muhammad Gidzane!</strong></summary>
 You Can Call Me <b>Dzann</b>, Also Welcome To My Github profile
+<hr>
 
 ### <summary><strong>Tools:</strong></summary>
-<hr>
 <p>
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
     <img src="https://img.shields.io/badge/IDE-Visual_Studio-5C2D91?logo=visual-studio&logoColor=purple" /> 
@@ -11,9 +11,9 @@ You Can Call Me <b>Dzann</b>, Also Welcome To My Github profile
     <img src="https://img.shields.io/badge/API%20Tool-Postman-FF6C37?&logo=postman" /> 
     <img src="https://img.shields.io/badge/Database-SQL_Management_Studio-CC2927?logo=microsoft-sql-server" /> 
 </p>
+<hr>
 
 ### <summary><strong>Language:</strong></summary>
-<hr>
 <p>
     <img src="https://img.icons8.com/color/48/000000/python.png" />
     <img src="https://img.icons8.com/color/48/000000/php.png" />
@@ -21,9 +21,9 @@ You Can Call Me <b>Dzann</b>, Also Welcome To My Github profile
     <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" />
 </p>
 
+<hr>
 
 ### <summary><strong>Yosh!</strong></summary>
-<hr>
 <p>
     - :keyboard: I’m currently learning Data Analytics. </br>
     - :speech_balloon: Ask me about anything.</br>
@@ -32,7 +32,9 @@ You Can Call Me <b>Dzann</b>, Also Welcome To My Github profile
     - :game_die: I Love Editing Video. </br>
 <!--      <img src="https://imgur.com/vB6DViw" align="right" width="200px" /> -->
 </p>
- 
+
+<hr>
+
 ### <summary><strong>Let's connect!</strong></summary>
 </br>
 <a href="https://discordapp.com/users/523105610900832257">
