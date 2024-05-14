@@ -18,7 +18,7 @@ Lifelong Learner, i love learn something new
 <p>
  
 ### <summary><strong>Let's connect!</strong></summary>
-<a href="https://twitter.com/yours](https://discordapp.com/users/523105610900832257">
+<a href="https://discordapp.com/users/523105610900832257">
   <img align="left" alt="Goo's Twitter" width="20px" src="https://simpleicons.now.sh/discord/495f7e" />
 </a>
 <a href="https://www.instagram.com/dzaeys/">
