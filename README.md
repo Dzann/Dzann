@@ -11,9 +11,9 @@ Lifelong Learner, I Love learn Something New!
 </p>
 ### <summary><strong>Language:</strong></summary>
 <p>
-    <img src="https://img.shields.io/badge/Python-green?&logo=python&logoColor=green" /> </br>
-    <img src="https://img.shields.io/badge/PHP-blue?&logo=php&logoColor=blue" /> </br>
-    <img src="https://img.shields.io/badge/JavaScript-yellow?&logo=javascript&logoColor=yellow" /> </br>
+    <img src="https://img.shields.io/badge/Python-green?&logo=python&logoColor=grey" /> </br>
+    <img src="https://img.shields.io/badge/PHP-blue?&logo=php&logoColor=grey" /> </br>
+    <img src="https://img.shields.io/badge/JavaScript-yellow?&logo=javascript&logoColor=grey" /> </br>
 
 </p>
 
