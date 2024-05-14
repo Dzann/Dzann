@@ -25,13 +25,14 @@ Lifelong Learner, I Love learn Something New!
 </p>
  
 ### <summary><strong>Let's connect!</strong></summary>
-<hr>
+
 <a href="https://discordapp.com/users/523105610900832257">
   <img align="left" alt="Dzann's Twitter" width="20px" src="https://simpleicons.now.sh/discord/495f7e" />
 </a>
 <a href="https://www.instagram.com/dzaeys/">
   <img align="left" alt="Dzann's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
 </a>
+<hr>
 <!-- <a href="https://yours.com/">
   <img align="left" alt="Goo's Blog" width="20px" src="https://simpleicons.now.sh/blogger/495f7e" />
 </a> -->
