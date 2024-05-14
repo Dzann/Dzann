@@ -7,7 +7,7 @@ You Can Call Me <b>Dzann</b>, Also Welcome To My Github profile
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
     <img src="https://img.shields.io/badge/IDE-Visual_Studio-5C2D91?logo=visual-studio&logoColor=purple" /> 
     <img src="https://img.shields.io/badge/Database%20Designer-XAMPP-orange?&logo=xampp" /> 
-    <img src="https://img.shields.io/badge/Design-Figma-F24E1E?&logo=figma" /> 
+    <img src="https://img.shields.io/badge/Design-Figma-F24E1E?&logo=figma" /> </br>
     <img src="https://img.shields.io/badge/API%20Tool-Postman-FF6C37?&logo=postman" /> 
     <img src="https://img.shields.io/badge/Database-SQL_Management_Studio-CC2927?logo=microsoft-sql-server" /> 
 </p>
