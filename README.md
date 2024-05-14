@@ -7,8 +7,8 @@ Lifelong Learner, I Love learn Something New!
 <p>
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" /> </br>
     <img src="https://img.shields.io/badge/Database%20Designer-XAMPP-orange?&logo=xampp&logoColor=orange" /> </br>
-    <img src="https://img.shields.io/badge/Design-Figma-F24E1E?&logo=figma&logoColor=white" /> </br>
-    <img src="https://img.shields.io/badge/API%20Tool-Postman-FF6C37?&logo=postman&logoColor=white" />
+    <img src="https://img.shields.io/badge/Design-Figma-F24E1E?&logo=figma" /> </br>
+    <img src="https://img.shields.io/badge/API%20Tool-Postman-FF6C37?&logo=postman" />
 </p>
 
 <summary><strong>Language:</strong></summary>
