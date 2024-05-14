@@ -22,7 +22,7 @@ Lifelong Learner, I Love learn Something New!
     - :speech_balloon: Ask me about anything.</br>
     - :mailbox: How to reach me: <a href="mailto:muhammadgidzane@gmail.com">Email me!</a>  </br>
     - :cloud: Pronouns: he/him. </br>
-    - :game_die: i love editing so much. </br>
+    - :game_die: I Love Editing Video. </br>
 <p>
  
 ### <summary><strong>Let's connect!</strong></summary>
