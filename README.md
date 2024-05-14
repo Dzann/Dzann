@@ -3,6 +3,7 @@ Lifelong Learner, I Love learn Something New!
 
 
 <summary><strong>Tools:</strong></summary>
+<hr>
 <p>
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" /> </br>
     <img src="https://img.shields.io/badge/Database%20Designer-XAMPP-orange?&logo=xampp&logoColor=orange" /> </br>
@@ -11,14 +12,16 @@ Lifelong Learner, I Love learn Something New!
 </p>
 
 <summary><strong>Language:</strong></summary>
-<p> <hr>
+<hr>
+<p>
     <img src="https://img.shields.io/badge/Language-Python-3776AB?&logo=python&logoColor=FFD43B" /> </br>
     <img src="https://img.shields.io/badge/Language-PHP-777BB4?&logo=php&logoColor=8892BF" /> </br>
     <img src="https://img.shields.io/badge/Language-JavaScript-F7DF1E?&logo=javascript&logoColor=323330" /> </br>
 </p>
 
 <summary><strong>Yosh!</strong></summary>
-<p> <hr>
+<hr>
+<p>
     - :keyboard: I’m currently learning Data Analytics. </br>
     - :speech_balloon: Ask me about anything.</br>
     - :mailbox: How to reach me: <a href="mailto:muhammadgidzane@gmail.com">Email me!</a>  </br>
