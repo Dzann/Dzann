@@ -31,7 +31,7 @@ Lifelong Learner, I Love learn Something New!
 </p>
  
 ### <summary><strong>Let's connect!</strong></summary>
-
+</br>
 <a href="https://discordapp.com/users/523105610900832257">
   <img align="left" alt="Dzann's Twitter" width="20px" src="https://simpleicons.now.sh/discord/495f7e" />
 </a>
