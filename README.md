@@ -32,6 +32,7 @@ Lifelong Learner, I Love learn Something New!
 <a href="https://www.instagram.com/dzaeys/">
   <img align="left" alt="Dzann's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
 </a>
+</Br>
 <hr>
 <!-- <a href="https://yours.com/">
   <img align="left" alt="Goo's Blog" width="20px" src="https://simpleicons.now.sh/blogger/495f7e" />
