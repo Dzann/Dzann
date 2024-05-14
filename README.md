@@ -30,7 +30,7 @@ You Can Call Me <b>Dzann</b>, Also Welcome To My Github profile
     - :mailbox: How to reach me: <a href="mailto:muhammadgidzane@gmail.com">Email me!</a>  </br>
     - :cloud: Pronouns: he/him. </br>
     - :game_die: I Love Editing Video. </br>
-     <img src="https://imgur.com/vB6DViw" align="right" width="200px" />
+<!--      <img src="https://imgur.com/vB6DViw" align="right" width="200px" /> -->
 </p>
  
 ### <summary><strong>Let's connect!</strong></summary>
