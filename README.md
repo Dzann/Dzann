@@ -1,9 +1,10 @@
-#<summary><strong>Hi there :wave: , I'm Dzann!</strong></summary>
+# <summary><strong>Hi there :wave: , I'm Dzann!</strong></summary>
 Welcome To My Github profile
 <hr>
 I Love Learn Something New!
 </br>
-<summary><strong>Tools:</strong></summary>
+
+### <summary><strong>Tools:</strong></summary>
 <hr>
 <p>
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" /> </br>
@@ -12,7 +13,7 @@ I Love Learn Something New!
     <img src="https://img.shields.io/badge/API%20Tool-Postman-FF6C37?&logo=postman" />
 </p>
 
-<summary><strong>Language:</strong></summary>
+### <summary><strong>Language:</strong></summary>
 <hr>
 <p>
     <img src="https://img.shields.io/badge/Language-Python-3776AB?logo=python" />
@@ -21,7 +22,7 @@ I Love Learn Something New!
 </p>
 
 
-<summary><strong>Yosh!</strong></summary>
+### <summary><strong>Yosh!</strong></summary>
 <hr>
 <p>
     - :keyboard: I’m currently learning Data Analytics. </br>
