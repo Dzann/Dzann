@@ -3,27 +3,27 @@ Lifelong Learner, I Love learn Something New!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goonesmile&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
 
-### <summary><strong>Tools:</strong></summary>
+<summary><strong>Tools:</strong></summary>
 <p>
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" /> </br>
     <img src="https://img.shields.io/badge/Database%20Designer-XAMPP-orange?&logo=xampp&logoColor=orange" />
 
 </p>
-### <summary><strong>Language:</strong></summary>
-<h3>
+<summary><strong>Language:</strong></summary>
+<p>
     <img src="https://img.shields.io/badge/Language-Python-3776AB?&logo=python&logoColor=FFD43B" /> </br>
     <img src="https://img.shields.io/badge/Language-PHP-777BB4?&logo=php&logoColor=8892BF" /> </br>
     <img src="https://img.shields.io/badge/Language-JavaScript-F7DF1E?&logo=javascript&logoColor=323330" /> </br>
-</h3>
+</p>
 
 <summary><strong>Yosh!</strong></summary>
-<h3>
+<p>
     - :keyboard: I’m currently learning Data Analytics. </br>
     - :speech_balloon: Ask me about anything.</br>
     - :mailbox: How to reach me: <a href="mailto:muhammadgidzane@gmail.com">Email me!</a>  </br>
     - :cloud: Pronouns: he/him. </br>
     - :game_die: I Love Editing Video. </br>
-</h3>
+</p>
  
 ### <summary><strong>Let's connect!</strong></summary>
 <a href="https://discordapp.com/users/523105610900832257">
