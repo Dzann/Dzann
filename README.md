@@ -6,8 +6,8 @@ Lifelong Learner, I Love learn Something New!
 ### <summary><strong>Tools:</strong></summary>
 <p>
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FXAMPP&psig=AOvVaw0kcfEy7MrZj_Dt7kVF1l3R&ust=1715788728961000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCODXgqHBjYYDFQAAAAAdAAAAABAE" />
-    
+    <img src="https://img.shields.io/badge/Text%20Editor-XAMPP-orange?&logo=xampp&logoColor=orange" />
+
 </p>
 
 ### <summary><strong>Yosh!</strong></summary>
