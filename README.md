@@ -5,8 +5,15 @@ Lifelong Learner, I Love learn Something New!
 
 ### <summary><strong>Tools:</strong></summary>
 <p>
-    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
-    <img src="https://img.shields.io/badge/Text%20Editor-XAMPP-orange?&logo=xampp&logoColor=orange" />
+    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" /> </br>
+    <img src="https://img.shields.io/badge/Database%20Designer-XAMPP-orange?&logo=xampp&logoColor=orange" />
+
+</p>
+### <summary><strong>Language:</strong></summary>
+<p>
+    <img src="https://img.shields.io/badge/Python-green?&logo=python&logoColor=green" /> </br>
+    <img src="https://img.shields.io/badge/PHP-blue?&logo=php&logoColor=blue" /> </br>
+    <img src="https://img.shields.io/badge/JavaScript-yellow?&logo=javascript&logoColor=yellow" /> </br>
 
 </p>
 
