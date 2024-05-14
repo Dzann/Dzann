@@ -5,7 +5,7 @@ Lifelong Learner, I Love Learn Something New!
 <summary><strong>Tools:</strong></summary>
 <hr>
 <p>
-    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code" /> </br>
+    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" /> </br>
     <img src="https://img.shields.io/badge/Database%20Designer-XAMPP-orange?&logo=xampp" /> </br>
     <img src="https://img.shields.io/badge/Design-Figma-F24E1E?&logo=figma" /> </br>
     <img src="https://img.shields.io/badge/API%20Tool-Postman-FF6C37?&logo=postman" />
