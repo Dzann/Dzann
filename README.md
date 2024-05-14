@@ -1,5 +1,5 @@
-# <summary><strong>Hi there :wave: , I'm Dzann!</strong></summary>
-Welcome To My Github profile
+# <summary><strong>Hi there :wave: , I'm Muhammad Gidzane!</strong></summary>
+You Can Call Me <b>Dzann!!</b>, Also Welcome To My Github profile
 
 ### <summary><strong>Tools:</strong></summary>
 <hr>
