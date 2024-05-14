@@ -18,7 +18,7 @@ Welcome To My Github profile
     <img src="https://img.shields.io/badge/Language-Python-3776AB?logo=python" />
     <img src="https://img.shields.io/badge/Language-PHP-777BB4?logo=php" />
     <img src="https://img.shields.io/badge/Language-JavaScript-F7DF1E?logo=javascript" /> </br>
-    <img src="https://img.shields.io/badge/Language-C%23-239120?logo=c-sharp" />
+    <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" />
 </p>
 
 
