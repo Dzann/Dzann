@@ -1,8 +1,5 @@
 # <summary><strong>Hi there :wave: , I'm Dzann!</strong></summary>
 Welcome To My Github profile
-<hr>
-I Love Learn Something New!
-</br>
 
 ### <summary><strong>Tools:</strong></summary>
 <hr>
