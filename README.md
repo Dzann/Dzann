@@ -8,6 +8,8 @@ Welcome To My Github profile
     <img src="https://img.shields.io/badge/Database%20Designer-XAMPP-orange?&logo=xampp" /> </br>
     <img src="https://img.shields.io/badge/Design-Figma-F24E1E?&logo=figma" /> </br>
     <img src="https://img.shields.io/badge/API%20Tool-Postman-FF6C37?&logo=postman" />
+    <img src="https://img.shields.io/badge/IDE-Visual_Studio-5C2D91?logo=visual-studio" />
+    <img src="https://img.shields.io/badge/Database-SQL_Management_Studio-CC2927?logo=microsoft-sql-server" />
 </p>
 
 ### <summary><strong>Language:</strong></summary>
@@ -16,6 +18,7 @@ Welcome To My Github profile
     <img src="https://img.shields.io/badge/Language-Python-3776AB?logo=python" />
     <img src="https://img.shields.io/badge/Language-PHP-777BB4?logo=php" />
     <img src="https://img.shields.io/badge/Language-JavaScript-F7DF1E?logo=javascript" />
+    <img src="https://img.shields.io/badge/Language-C%23-239120?logo=c-sharp" />
 </p>
 
 
