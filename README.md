@@ -1,5 +1,7 @@
 # <summary><strong>Hi there :wave: , I'm Dzann!</strong></summary>
-Lifelong Learner, I Love Learn Something New!
+Welcome To My Github profile
+<br>
+I Love Learn Something New!
 
 
 <summary><strong>Tools:</strong></summary>
