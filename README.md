@@ -10,20 +10,20 @@ Lifelong Learner, I Love learn Something New!
 
 </p>
 ### <summary><strong>Language:</strong></summary>
-<p>
+<h3>
     <img src="https://img.shields.io/badge/Language-Python-3776AB?&logo=python&logoColor=FFD43B" /> </br>
     <img src="https://img.shields.io/badge/Language-PHP-777BB4?&logo=php&logoColor=8892BF" /> </br>
     <img src="https://img.shields.io/badge/Language-JavaScript-F7DF1E?&logo=javascript&logoColor=323330" /> </br>
-</p>
+</h3>
 
-### <summary><strong>Yosh!</strong></summary>
-<p>
+<summary><strong>Yosh!</strong></summary>
+<h3>
     - :keyboard: I’m currently learning Data Analytics. </br>
     - :speech_balloon: Ask me about anything.</br>
     - :mailbox: How to reach me: <a href="mailto:muhammadgidzane@gmail.com">Email me!</a>  </br>
     - :cloud: Pronouns: he/him. </br>
     - :game_die: I Love Editing Video. </br>
-<p>
+</h3>
  
 ### <summary><strong>Let's connect!</strong></summary>
 <a href="https://discordapp.com/users/523105610900832257">
