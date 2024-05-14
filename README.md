@@ -8,7 +8,7 @@ Welcome To My Github profile
     <img src="https://img.shields.io/badge/Database%20Designer-XAMPP-orange?&logo=xampp" /> </br>
     <img src="https://img.shields.io/badge/Design-Figma-F24E1E?&logo=figma" /> </br>
     <img src="https://img.shields.io/badge/API%20Tool-Postman-FF6C37?&logo=postman" /> </br>
-    <img src="https://img.shields.io/badge/IDE-Visual_Studio-5C2D91?logo=visual-studio" /> </br>
+    <img src="https://img.shields.io/badge/IDE-Visual_Studio-5C2D91?logo=visual-studio&logoColor=purple" /> </br>
     <img src="https://img.shields.io/badge/Database-SQL_Management_Studio-CC2927?logo=microsoft-sql-server" /> </br>
 </p>
 
