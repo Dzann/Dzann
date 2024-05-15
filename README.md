@@ -23,7 +23,7 @@ You Can Call Me <b>Dzann</b>, Also Welcome To My Github profile
 
 <hr>
 
-### <summary><strong>Yosh!</strong></summary>
+### <summary><strong>About Me!</strong></summary>
 <p>
     - :keyboard: I’m currently learning Data Analytics. </br>
     - :speech_balloon: Ask me about anything.</br>
