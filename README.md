@@ -29,7 +29,7 @@ You Can Call Me <b>Dzann</b>, Also Welcome To My Github profile
     - :speech_balloon: Ask me about anything.</br>
     - :mailbox: How to reach me: <a href="mailto:muhammadgidzane@gmail.com">Email me!</a>  </br>
     - :cloud: Pronouns: he/him. </br>
-    - :game_die: I Love To Learn Something New And I Also Also Like Editing Video. </br>
+    - :game_die: I Love To Learn Something New And I Also Like Editing Video. </br>
 <!--      <img src="https://imgur.com/vB6DViw" align="right" width="200px" /> -->
 </p>
 
